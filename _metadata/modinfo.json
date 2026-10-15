@@ -1,0 +1,13 @@
+{
+    "authors": [
+        {
+            "name": "bottle405",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "[DEV] More Camera for TF3. Bookmark towns and vehicles from their windows, then jump to any of them from the Bookmarks list in the HUD. The Back button in the HUD returns the camera to where it was before the last jump. Nothing is stored in the save game: bookmarks and camera positions live in memory for the session.",
+    "name": "[DEV] More Camera: Bookmarks & Back",
+    "summary": "[DEV] Bookmark towns and vehicles, jump to them, and go back to the previous camera position.",
+    "tags": ["Script Mod"],
+    "url": ""
+}
